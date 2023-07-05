@@ -1,0 +1,8 @@
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\bin\Debug\CGY_Tinhthoigian.exe.config
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\bin\Debug\CGY_Tinhthoigian.exe
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\bin\Debug\CGY_Tinhthoigian.pdb
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\obj\Debug\CGY_Tinhthoigian.csproj.AssemblyReference.cache
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\obj\Debug\CGY_Tinhthoigian.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\obj\Debug\CGY_Tinhthoigian.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\obj\Debug\CGY_Tinhthoigian.exe
+D:\GitHub\Project\CGY_Tinhthoigian\CGY_Tinhthoigian\obj\Debug\CGY_Tinhthoigian.pdb
